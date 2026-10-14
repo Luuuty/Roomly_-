@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Малый переговорный зал</title>
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#e8f0fa"/>
+    </linearGradient>
+    <linearGradient id="table" x1="0" x2="1">
+      <stop offset="0" stop-color="#d7a66f"/>
+      <stop offset="1" stop-color="#a96f42"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#335070" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="640" height="360" fill="url(#wall)"/>
+  <path d="M0 264h640v96H0z" fill="#d9e4f1"/>
+  <path d="M0 264h640" stroke="#c4d2e2" stroke-width="3"/>
+  <rect x="86" y="58" width="184" height="98" rx="9" fill="#f9fcff" stroke="#b6c8de" stroke-width="4"/>
+  <rect x="102" y="74" width="152" height="66" rx="4" fill="#90b9ec"/>
+  <rect x="418" y="56" width="98" height="136" rx="8" fill="#fff" stroke="#c8d5e5" stroke-width="4"/>
+  <path d="M436 84h62M436 112h62M436 140h46" stroke="#8aa8c8" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="548" cy="82" r="28" fill="#74bf68" opacity=".24"/>
+  <path d="M548 58v48M524 82h48" stroke="#74bf68" stroke-width="7" stroke-linecap="round" opacity=".62"/>
+  <ellipse cx="318" cy="264" rx="174" ry="48" fill="#7b8da4" opacity=".18"/>
+  <g filter="url(#shadow)">
+    <rect x="170" y="180" width="292" height="112" rx="34" fill="url(#table)"/>
+    <rect x="196" y="196" width="240" height="78" rx="27" fill="#e6bd86"/>
+  </g>
+  <g fill="#25354b">
+    <rect x="142" y="206" width="44" height="58" rx="15"/>
+    <rect x="446" y="206" width="44" height="58" rx="15"/>
+    <rect x="238" y="134" width="48" height="58" rx="15"/>
+    <rect x="346" y="134" width="48" height="58" rx="15"/>
+  </g>
+  <g fill="#f8fbff" opacity=".72">
+    <rect x="246" y="222" width="52" height="18" rx="5"/>
+    <rect x="332" y="222" width="52" height="18" rx="5"/>
+  </g>
+  <rect x="80" y="184" width="36" height="92" rx="6" fill="#a7c0dc"/>
+  <path d="M86 204h24M86 226h24M86 248h24" stroke="#f7fbff" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 90" role="img" aria-labelledby="title">
+  <title id="title">Элдик Банк</title>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#7EC36E" d="M6 16h56c9 0 18 5 23 13H18z"/>
+    <path fill="#1F73E8" d="M20 42h98c-6 9-16 14-28 14H29z"/>
+    <path fill="#1F73E8" d="M6 58h66c-7 10-18 15-31 15H18z"/>
+    <path fill="#1F73E8" d="M95 29h23c-3 8-9 13-19 13H80c5-8 10-13 15-13z"/>
+    <g fill="#1F73E8" font-family="Arial, Helvetica, sans-serif" font-weight="800">
+      <text x="132" y="40" font-size="31">ЭЛДИК</text>
+      <text x="132" y="68" font-size="31">БАНК</text>
+    </g>
+    <text x="136" y="86" fill="#9AA7B8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">ЭЛ ҮЧҮН</text>
+  </g>
+</svg>
